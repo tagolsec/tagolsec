@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tagolsec
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning Go lang
+- 🌱 I’m currently learning ?xxxx?
 
 
 <!---
